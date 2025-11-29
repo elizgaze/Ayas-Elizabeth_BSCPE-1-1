@@ -53,6 +53,5 @@ elif option == 6:
 else:
     print("Invalid option selected.")
     
+print("Thank you for using the calculator. Exiting program.")
 print(output_message)
-output_message = "Thank you for using the calculator. Exiting program."
-    
