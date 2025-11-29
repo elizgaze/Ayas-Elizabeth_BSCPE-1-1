@@ -54,3 +54,5 @@ else:
     print("Invalid option selected.")
     
 print(output_message)
+output_message = "Thank you for using the calculator. Exiting program."
+    
